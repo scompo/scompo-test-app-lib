@@ -18,7 +18,7 @@ public interface Calculator{
 	 * @author mscomparin
 	 * 
 	 */
-	public enum Operands {
+	enum Operands {
 
 		/**
 		 * Defines a sum.
